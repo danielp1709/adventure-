@@ -1,5 +1,14 @@
 {
-  "block.adventure.darkore_ore": "Darkore Ore",
-  "item.adventure.darkore": "Darkore",
-  "block.adventure.darkore_block": "Block of Darkore"
+  "item.adventure.ruby_shovel": "Ruby Shovel",
+  "block.adventure.ruby_block": "Block of Ruby",
+  "item.adventure.ruby_axe": "Ruby Axe",
+  "item.adventure.ruby": "Ruby",
+  "item.adventure.ruby_armor_helmet": "Ruby Helmet",
+  "item.adventure.ruby_armor_boots": "Ruby Boots",
+  "item.adventure.ruby_armor_leggings": "Ruby Leggings",
+  "item.adventure.ruby_hoe": "Ruby Hoe",
+  "item.adventure.ruby_armor_chestplate": "Ruby Chestplate",
+  "item.adventure.ruby_sword": "Ruby Sword",
+  "block.adventure.ruby_ore": "Ruby Ore",
+  "item.adventure.ruby_pickaxe": "Ruby Pickaxe"
 }

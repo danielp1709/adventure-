@@ -1,0 +1,12 @@
+{
+  "group": "adventure",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "adventure:ruby_ore"
+  },
+  "result": {
+    "item": "adventure:ruby"
+  }
+}

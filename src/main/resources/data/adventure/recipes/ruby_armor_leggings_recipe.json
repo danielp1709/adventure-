@@ -1,0 +1,36 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:ruby"
+    },
+    "1": {
+      "item": "adventure:ruby"
+    },
+    "2": {
+      "item": "adventure:ruby"
+    },
+    "3": {
+      "item": "adventure:ruby"
+    },
+    "5": {
+      "item": "adventure:ruby"
+    },
+    "6": {
+      "item": "adventure:ruby"
+    },
+    "8": {
+      "item": "adventure:ruby"
+    }
+  },
+  "result": {
+    "item": "adventure:ruby_armor_leggings",
+    "count": 1
+  }
+}

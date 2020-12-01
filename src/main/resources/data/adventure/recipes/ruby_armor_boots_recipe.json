@@ -1,0 +1,26 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:ruby"
+    },
+    "2": {
+      "item": "adventure:ruby"
+    },
+    "3": {
+      "item": "adventure:ruby"
+    },
+    "5": {
+      "item": "adventure:ruby"
+    }
+  },
+  "result": {
+    "item": "adventure:ruby_armor_boots",
+    "count": 1
+  }
+}

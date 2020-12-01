@@ -1,0 +1,13 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adventure:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "adventure:ruby",
+    "count": 9
+  }
+}

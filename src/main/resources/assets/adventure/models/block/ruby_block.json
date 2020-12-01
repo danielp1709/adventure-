@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adventure:blocks/ruby_ore_block",
+    "particle": "adventure:blocks/ruby_ore_block"
+  }
+}

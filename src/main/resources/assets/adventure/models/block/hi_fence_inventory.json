@@ -1,7 +1,0 @@
-{
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "adventure:blocks/hi_planks",
-    "particle": "adventure:blocks/hi_planks"
-  }
-}

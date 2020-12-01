@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "adventure:blocks/hi_log_side",
-    "particle": "adventure:blocks/hi_log_side"
-  }
-}

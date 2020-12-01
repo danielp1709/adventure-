@@ -1,0 +1,33 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:hi_planks"
+    },
+    "3": {
+      "item": "adventure:hi_planks"
+    },
+    "4": {
+      "item": "adventure:hi_planks"
+    },
+    "6": {
+      "item": "adventure:hi_planks"
+    },
+    "7": {
+      "item": "adventure:hi_planks"
+    },
+    "8": {
+      "item": "adventure:hi_planks"
+    }
+  },
+  "result": {
+    "item": "adventure:hi_stairs",
+    "count": 4
+  }
+}

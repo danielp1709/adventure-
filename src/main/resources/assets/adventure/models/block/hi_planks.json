@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adventure:blocks/hi_planks",
+    "particle": "adventure:blocks/hi_planks"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:hi_planks"
+    },
+    "1": {
+      "item": "adventure:hi_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

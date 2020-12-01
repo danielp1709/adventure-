@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "adventure:block/hi_slab"
+    },
+    "type=top": {
+      "model": "adventure:block/hi_slab_top"
+    },
+    "type=double": {
+      "model": "adventure:block/hi_slab_full"
+    }
+  }
+}

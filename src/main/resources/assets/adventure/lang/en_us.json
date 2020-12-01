@@ -1,1 +1,5 @@
-{}
+{
+  "block.adventure.darkore_ore": "Darkore Ore",
+  "item.adventure.darkore": "Darkore",
+  "block.adventure.darkore_block": "Block of Darkore"
+}

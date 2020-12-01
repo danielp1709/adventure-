@@ -1,0 +1,13 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adventure:darkore_block"
+    }
+  ],
+  "result": {
+    "item": "adventure:darkore",
+    "count": 9
+  }
+}

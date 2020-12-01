@@ -1,0 +1,42 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:darkore"
+    },
+    "1": {
+      "item": "adventure:darkore"
+    },
+    "2": {
+      "item": "adventure:darkore"
+    },
+    "3": {
+      "item": "adventure:darkore"
+    },
+    "4": {
+      "item": "adventure:darkore"
+    },
+    "5": {
+      "item": "adventure:darkore"
+    },
+    "6": {
+      "item": "adventure:darkore"
+    },
+    "7": {
+      "item": "adventure:darkore"
+    },
+    "8": {
+      "item": "adventure:darkore"
+    }
+  },
+  "result": {
+    "item": "adventure:darkore_block",
+    "count": 1
+  }
+}

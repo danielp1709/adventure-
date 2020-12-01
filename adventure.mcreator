@@ -1,10 +1,69 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Darkore",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore"
+    },
+    {
+      "name": "DarkoreOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore_ore"
+    },
+    {
+      "name": "DarkoreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore_block"
+    },
+    {
+      "name": "DarkoreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore_ore_block_recipe"
+    },
+    {
+      "name": "DarkoreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore_block_ore_recipe"
+    },
+    {
+      "name": "DarkoreOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkore_ore_smelting"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.adventure.darkore_ore": "Darkore Ore",
+      "item.adventure.darkore": "Darkore",
+      "block.adventure.darkore_block": "Block of Darkore"
+    }
   },
   "workspaceSettings": {
     "modid": "adventure",

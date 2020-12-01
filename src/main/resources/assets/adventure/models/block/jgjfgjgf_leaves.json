@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "adventure:blocks/jgjfgjgf_leaves",
-    "particle": "adventure:blocks/jgjfgjgf_leaves"
-  }
-}

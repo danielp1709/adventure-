@@ -1,7 +1,0 @@
-{
-  "parent": "block/fence_post",
-  "textures": {
-    "texture": "adventure:blocks/jgjfgjgf_planks",
-    "particle": "adventure:blocks/jgjfgjgf_planks"
-  }
-}

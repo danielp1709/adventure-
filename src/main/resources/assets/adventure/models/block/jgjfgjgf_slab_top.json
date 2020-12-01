@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "adventure:blocks/jgjfgjgf_planks",
+    "top": "adventure:blocks/jgjfgjgf_planks",
+    "side": "adventure:blocks/jgjfgjgf_planks"
+  }
+}

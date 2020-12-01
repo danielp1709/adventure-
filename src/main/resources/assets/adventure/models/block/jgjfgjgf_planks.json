@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adventure:blocks/jgjfgjgf_planks",
+    "particle": "adventure:blocks/jgjfgjgf_planks"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure:jgjfgjgf_log"
+    },
+    "1": {
+      "item": "adventure:jgjfgjgf_log"
+    },
+    "2": {
+      "item": "adventure:jgjfgjgf_log"
+    },
+    "3": {
+      "item": "adventure:jgjfgjgf_log"
+    }
+  },
+  "result": {
+    "item": "adventure:jgjfgjgf_wood",
+    "count": 3
+  }
+}

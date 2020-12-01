@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "adventure:blocks/jgjfgjgf_planks",
+    "particle": "adventure:blocks/jgjfgjgf_planks"
+  }
+}

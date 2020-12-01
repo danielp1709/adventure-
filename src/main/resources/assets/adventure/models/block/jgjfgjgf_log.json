@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "adventure:blocks/jgjfgjgf_log_top",
+    "up": "adventure:blocks/jgjfgjgf_log_top",
+    "north": "adventure:blocks/jgjfgjgf_log_side",
+    "east": "adventure:blocks/jgjfgjgf_log_side",
+    "south": "adventure:blocks/jgjfgjgf_log_side",
+    "west": "adventure:blocks/jgjfgjgf_log_side",
+    "particle": "adventure:blocks/jgjfgjgf_log_top"
+  }
+}
